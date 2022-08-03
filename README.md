@@ -1,12 +1,14 @@
 <p align="center">
-  <h3 align="center">Hi 👋, I'm Hashir</h3>
+  <h3 align="center">Heya 👋, I'm Hashir</h3>
 </p>
 <p align="center">
     <a href="https://hashirshoaeb.github.io">About Me</a>
     ·
     <a href="mailto:hashirshoaeb@gmail.com">Email</a>
     ·
-    <a href="https://linkedin.com/in/hashirshoaeb/">LinkedIn</a>
+    <a href="https://linkedin.com/in/hashirshoaeb">LinkedIn</a>
+    ·
+    <a href="https://twitter.com/hashirshoaeb">Twitter</a>
 </p>
 <p align="center">
   <h4 align="center">Computer Engineer from Lahore, Pakistan</h4>
@@ -17,19 +19,36 @@
 </p>
 
 
+I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
+
+
 - 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
-
-- 🌱 I’m currently learning **Software Design Patterns**.
-
-- 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**.
-
-- 💬 Ask me about **Dart, Flutter, Reactjs, git**.
-
-- 📫 How to reach me: @hashirshoaeb
-
+- 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz.
+- 💬 Ask me about **Dart, Flutter, Swift, git**.
+- 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
 - 😄 Pronouns: He/Him/His
-
 - ⚡ Fun fact: A coder who doesn't like coffee.
+<!-- - 🌱 I’m currently learning **Software Design Patterns**. -->
+<!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**. -->
+
+### Projects
+
+#### Flutter & Dart 
+[**Starbook**](https://github.com/hashirshoaeb/star_book) <br />A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
+
+[**QuranTalk**](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
+
+#### Swift & iOS
+ [**VIP Architecture Example**](https://github.com/hashirshoaeb/vip) <br />A simple swift example code based on VIP architecture.
+
+#### Reactjs & Nextjs
+ [**Home**](https://github.com/hashirshoaeb/home) <br />Portfolio website template.
+
+[**Portfolio**](https://github.com/hashirshoaeb/portfolio) <br />A static website/portfolio template built for freelancers / indie developers, to showcase recent projects and services.
+
+  #### Find me on
+  [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
 
 <!--
 **hashirshoaeb/hashirshoaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
