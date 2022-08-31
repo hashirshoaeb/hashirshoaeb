@@ -33,9 +33,9 @@ I'm most passionate about friendly software design 📲, solid architecture 👷
 
 ### Projects
 #### Flutter & Dart 
-[**Starbook**](https://github.com/hashirshoaeb/star_book) 
-A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
+[**Starbook**](https://github.com/hashirshoaeb/star_book) <br />A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
 <br />
+
 [**QuranTalk**](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
 <br />
 
@@ -46,13 +46,14 @@ A digital diary and mood tracking app that helps you in keeping track of your mo
 #### Reactjs & Nextjs
 [**Home**](https://github.com/hashirshoaeb/home)<br />Portfolio website template.
 <br />
+
 [**Portfolio**](https://github.com/hashirshoaeb/portfolio) <br />A static website/portfolio template built for freelancers / indie developers, to showcase recent projects and services.
 <br />
 
 <hr/>
 
 <div align="center"> 
-<br />
+<h3 align="center">Let's connect</h3>
 
 [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
