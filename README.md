@@ -23,12 +23,12 @@
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
 - 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
-- 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz.
+- 🌱 I’m currently learning **Software Design Patterns**.
 - 💬 Ask me about **Dart, Flutter, Swift, git**.
 - 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: A coder who doesn't like coffee.
-<!-- - 🌱 I’m currently learning **Software Design Patterns**. -->
+<!-- - 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz. -->
 <!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/hashirshoaeb/star_book)**. -->
 
 ### Projects
