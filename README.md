@@ -11,17 +11,15 @@
     <a href="https://twitter.com/hashirshoaeb">Twitter</a>
 </p>
 <p align="center">
-  <h4 align="center">Computer Engineer from Lahore, Pakistan</h4>
+  <h4 align="center">Driven by Flutter | 
+Building Next-Gen Mobile Apps</h4>
 </p>
 
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
 </p>
 <div align="center">
-
-<a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-<!-- <a href="https://www.buymeacoffee.com/hashirshoaeb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<a href="https://www.buymeacoffee.com/hashirshoaeb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
+  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
  </div>
 
 
@@ -32,8 +30,8 @@
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
 - 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
-- 🌱 I’m currently learning **Software Design Patterns**.
-- 💬 Ask me about **Dart, Flutter, Swift, git**.
+- 🌱 I’m currently reading **Psychology of Money**.
+- 💬 Ask me about **Dart, Flutter, open source, git**.
 - 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: A coder who doesn't like coffee.
