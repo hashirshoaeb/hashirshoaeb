@@ -8,7 +8,7 @@
     ·
     <a href="https://linkedin.com/in/hashirshoaeb">LinkedIn</a>
     ·
-    <a href="https://twitter.com/hashirshoaeb">Twitter</a>
+    <a href="https://twitter.com/hashirshoaeb">X</a>
 </p>
 <p align="center">
   <h4 align="center">Driven by Flutter | 
@@ -64,16 +64,14 @@ I'm most passionate about friendly software design 📲, solid architecture 👷
  </div>
  <br/>
 
-<hr/>
 
-<div align="center"> 
-<h3 align="center">Let's connect</h3>
+### Let's connect
 
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)
 
-</div>
+Feel free to reach out to me on [X](https://twitter.com/hashirshoaeb) or [LinkedIn](https://www.linkedin.com/in/hashirshoaeb). I'm always open to collaborations and new opportunities.
 
+<!-- [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb) -->
+<!-- [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)  -->
 <!--
 **hashirshoaeb/hashirshoaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
