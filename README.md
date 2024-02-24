@@ -18,9 +18,6 @@ Building Next-Gen Mobile Apps</h4>
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
 </p>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
- </div>
 <br/>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
